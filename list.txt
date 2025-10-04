@@ -11,3 +11,6 @@ www.go-manga.com##.sticky-bottom-inside > a[href*="/link_to.php"]:nth-of-type(2)
 
 ! Oct 3, 2025 https://www.slow-manga.com
 www.slow-manga.com##.header-ads-section
+
+! Oct 4, 2025 https://doujin-lc.net
+doujin-lc.net##.wp-manga.c-top-sidebar.c-sidebar
