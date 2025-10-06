@@ -14,3 +14,6 @@ www.slow-manga.com##.header-ads-section
 
 ! Oct 4, 2025 https://doujin-lc.net
 doujin-lc.net##.wp-manga.c-top-sidebar.c-sidebar
+
+! Oct 6, 2025 https://speed-manga.com
+speed-manga.com##.dessert-frame > center
