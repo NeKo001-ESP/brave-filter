@@ -18,3 +18,8 @@ doujin-lc.net##.wp-manga.c-top-sidebar.c-sidebar
 ! Oct 6, 2025 https://speed-manga.com
 speed-manga.com##.dessert-frame > center
 speed-manga.com##.maincontent.entry-content-single.entry-content > .kln
+
+! Oct 9, 2025 https://anime-indy.net
+anime-indy.net##.mb-no-p.bg-none.container.a_head
+anime-indy.net##.d-inline-block.watch-bnn
+anime-indy.net##.py-2.video-content.watch-bnn
